@@ -1,0 +1,6 @@
+blynk app
+https://www.youtube.com/watch?v=8yLOl48Bb6o
+firebase install
+https://www.youtube.com/watch?v=G8LZjz9CHXU
+tutorial
+https://tutorial.picaio.com/2022/06/29/realtime-database-firebase-esp32/
